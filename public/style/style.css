@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background: rgb(245, 245, 245);
+}
+footer{
+    background: #343A40;
+    color: #ffffff;
+    text-align: center;
+    padding:15px 0 ;
+}
+.extraa{
+    position: relative !important;
+    left: 704px;
+    display: flex;
+}
+
+.my-container{
+    min-height: 805px;
+}
+a.singup-login {
+    margin-left: 240px;
+    color: darkolivegreen;
+
+}
+i.fab.fa-internet-explorer {
+    font-size: 24px;
+}
+i{
+    font-size: 27px;
+}
+
+img#profilePics {
+    width: 18%;
+}
+.mydiv3-5 {
+    margin-top: 2rem!important;
+    margin-bottom: 13rem!important;
+    margin: auto;
+}
+span.bookmark {
+    position: relative;
+    left: 319px;
+}
+
+a {
+    color: #222222;
+    text-decoration: none;
+}
+
+#authorProfilepics {
+    width: 175px;
+}
+#dashboardPosts {
+    margin: 0px 61px;
+}
